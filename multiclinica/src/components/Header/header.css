@@ -6,7 +6,7 @@
 .header {
   display: flex;
   justify-content: center;
-  Height: 440px;
+  height: 440px;
   background-image: url('../../assets/bgHeader.png');
   background-repeat: no-repeat;
   background-size: 100%;
